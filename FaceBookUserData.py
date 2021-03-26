@@ -2,5 +2,5 @@
 """
 Facebook User Profile data
 """
-user_id = "3408076865960590"
-user_token = "EAAGhfzSbLQ4BABMBbtmin2ZAmVkopV17w0cuWpnL9eqX69bAny2HkjmrqKOhgLbqtozJiiNR0dpaoZCtiADknhDsVht2vl5EwZAGFgxBwWXIdQyzMFP6QicJ1nekpaL7ZCWXrNdvs7teeuefaml8SF33Izt78zGuZCtNzGxmxmNpwkWbY6IsMknItZBLPL0buxP3BQiWGPZCgn9s5HZAFOXTrXBoBRioTDfZBDkfrULYeVgZDZD"
+user_id = ""
+user_token = ""
